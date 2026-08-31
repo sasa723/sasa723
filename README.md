@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="totoro.gif" alt="it's a true shame you can't see this" />
+  <img src="myneighbortotoro.gif" alt="it's a true shame you can't see this" />
 </p>
 
 <div align="center"> don't dream [that] it's over ♪ | <a href="sasa723.github.io">more</a> </div>
