@@ -2,12 +2,12 @@
   <img src="myneighbortotoro.gif" alt="it's a true shame you can't see this" />
 </p>
 
-<div align="center"> don't dream [that] it's over ♪ | <a href="sasa723.github.io">more</a> </div>
-currently tinkering with:
-→ radio astronomy data [FITS; PPV data cubes]
-→ Blender [5.2 LTS]
-→ python [3.14.7]
-→ woodworking [...]
+<div align="center"> don't dream [that] it's over ♪ • <a href="sasa723.github.io">more</a> </div>
+currently tinkering with:  
+→ radio astronomy data [FITS; PPV data cubes]  
+→ Blender [5.2 LTS]  
+→ python [3.14.7]  
+→ woodworking [...]  
 
 <!--
 **sasa723/sasa723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
