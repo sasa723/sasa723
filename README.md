@@ -3,11 +3,12 @@
 </p>
 
 <div align="center"> don't dream [that] it's over ♪ • <a href="sasa723.github.io">more</a> </div>
+
 currently tinkering with:  
-- radio astronomy data [PPV data cubes, 21 cm Hydrogen line]  
-- Blender [5.2 LTS]  
-- python [3.14.7]  
-- woodworking   
+* radio astronomy data [PPV data cubes, 21 cm Hydrogen line]  
+* Blender [5.2 LTS]  
+* python [3.14.7]  
+* woodworking   
 
 <!--
 **sasa723/sasa723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
